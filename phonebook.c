@@ -1,20 +1,4 @@
 
-Conversation opened. 1 read message. 
-
-Skip to content
-Using Gmail with screen readers
-dspd.assignment@gmail.com 
-2 of 17
-BT20CSE085_A2
-
-BT20CSE085_M. HEMANTH <mbannu08@gmail.com>
-Attachments
-Wed, Apr 6, 2022, 9:34 PM
-to dspd.assignment
-
-
- One attachment
-  •  Scanned by Gmail
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
@@ -1285,5 +1269,4 @@ void main()
   }
 
 }
-BT20CSE085_.c
-Displaying BT20CSE085_.c.
+
